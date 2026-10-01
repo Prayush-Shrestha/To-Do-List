@@ -66,22 +66,6 @@ Open the `index.html` file in your preferred web browser.
 - Connect with a backend database
 - Improve UI and user experience
 
-## Author
 
-**Prayush Shrestha**
 
-GitHub:  
-https://github.com/Prayush-Shrestha
 
-LinkedIn:  
-https://linkedin.com/in/prayushshrestha07
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-Feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is open-source and available under the MIT License.
